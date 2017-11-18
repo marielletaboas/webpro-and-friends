@@ -1,3 +1,3 @@
-# 12 Dinge welche du mit Github tun kannst
+# 12 Dinge, die Du mit Github tun kannst
 
 Web Professionals, Talk am Web Professionals & Friends

@@ -2,116 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8123ea40-7887-4897-9f64-e3eaa193e54b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/assets/image1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/assets/image2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print/paper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print/pdf.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reveal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reveal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/beige.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/black.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/blood.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/league.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/moon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/night.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/serif.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/simple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/sky.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/solarized.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/beige.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/black.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/blood.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/league.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/moon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/night.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/serif.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/simple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/sky.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/solarized.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/source/white.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/template/theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/theme/white.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/reveal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/zenburn.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/league-gothic/league-gothic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/font/source-sans-pro/source-sans-pro.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/classList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/head.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/highlight/highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/markdown/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/markdown/example.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/markdown/markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/markdown/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/math/math.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/multiplex/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/multiplex/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/multiplex/master.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/multiplex/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes-server/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes-server/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes-server/notes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes/notes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/notes/notes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/print-pdf/print-pdf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/search/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugin/zoom-js/zoom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/barebones.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/embedded-media.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/math.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/slide-backgrounds.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/examples/slide-transitions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/qunit-1.12.0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/qunit-1.12.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/simple.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-element-attributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-element-attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-external.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-external.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-options.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-slide-attributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown-slide-attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-pdf.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test-pdf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/presentation" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -122,12 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -143,6 +48,7 @@
         <option value="$PROJECT_DIR$/reveal.js/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -228,12 +134,12 @@
       <updated>1511016287099</updated>
       <workItem from="1511016288336" duration="412000" />
       <workItem from="1511016711025" duration="169000" />
-      <workItem from="1511016903333" duration="208000" />
+      <workItem from="1511016903333" duration="291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="789000" />
+    <option name="totallyTimeSpent" value="872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="23" width="1158" height="790" extended-state="0" />
@@ -312,6 +218,17 @@
         <state relative-caret-position="255">
           <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
