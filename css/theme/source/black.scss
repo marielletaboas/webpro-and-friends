@@ -48,13 +48,16 @@ section.has-light-background {
 @import "../template/theme";
 // ---------------------------------------------
 
-
-
 .portraitinfos {
 	display: block;
-	width: 100%;
+	width: 100vw;
 }
 
 .portraitinfos img {
 	display: inline-block;
+	width: 550px;
+	position: relative;
+	left: -180px;
+	top: -100px;
+	padding: 40px;
 }
