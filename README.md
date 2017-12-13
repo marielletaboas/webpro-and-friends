@@ -2,12 +2,20 @@
 
 Web Professionals, Talk am Web Professionals & Friends
 
-Dies ist mein formatierter Code:
+Um die Präsentation lokal zu installieren, einfach das Repository mit Git klonen:
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+```bash
+git clone https://github.com/mariellebeusch/webpro-and-friends.git
+```
+
+Ordner ablegen und benötigten Abhängigkeiten installieren:
+
+```bash
+cd projectname
+npm install
+```
+
+Um die Präsentation (reveal.js) lokal zu starten:
+```bash
+npm start
 ```
