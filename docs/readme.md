@@ -1,4 +1,4 @@
-# #15 Dinge coole Dinge,<br>die du mit Github tun kannst
+# #15 Dinge coole Dinge,<br>die du mit Github tun kannst :sunglasses:
 
 
 ## Was ist Github<br>
@@ -11,29 +11,32 @@ Basierend auf dem nützlichen öffentlichen Blog-Beitrag von <a target="_blank" 
 
 ## Talkmeisterinnen
 <strong>Stefanie Jegen</strong><br>
-Kundenservice/Projektleiterin, Absolventin Web Frontend Developer <a target="_blank" href="http://www.web-professionals.ch">Web Professionals</a><br>
+Kundenservice/Projektleiterin, Absolventin Web Frontend Developer – <a target="_blank" href="http://www.web-professionals.ch">Web Professionals</a><br>
 <br>
 <strong>Marielle Beusch</strong><br>
-Polygrafin, Absolventin Web Frontend Developer <a target="_blank" href="http://www.web-professionals.ch">Web Professionals</a>
+Polygrafin, Absolventin Web Frontend Developer – <a target="_blank" href="http://www.web-professionals.ch">Web Professionals</a>
 
 ## Themen des Talks<br>
-– #1 Git URL Shortener <br>
-– #2 Projekte verwalten <br>
-– #3 Code editieren <br>
-– #4 Code formatieren <br>
-– #5 Issues mit «magic words» schliessen <br>
-– #6 Bilder einfügen <br>
-– #7 Code verlinken <br>
-– #8 Listen innerhalb Projekten <br>
-– #9 Github Topics (Tags) <br>
-– #10 Kommentare verlinken <br>
-– #11 Github wiki <br>
-– #12 Github pages <br>
-– #13 Github wie ein CMS nutzen <br>
-– #14 The «magic» T-Key <br>
-– #15 Octotree
-– #16 Octobox
-– Weiteres
+– [#1 Git URL Shortener](https://github.com/mariellebeusch/webpro-and-friends/wiki/%231-Github-URL-Shortener) <br>
+– [#2 Projekte verwalten](https://github.com/mariellebeusch/webpro-and-friends/wiki/%232-Projekte) <br>
+– [#3 Code editieren](https://github.com/mariellebeusch/webpro-and-friends/wiki/%233-Code-editieren) <br>
+– [#4 Code formatieren](https://github.com/mariellebeusch/webpro-and-friends/wiki/%234-Code-formatieren) <br>
+– [#5 Issues mit «magic words» schliessen](https://github.com/mariellebeusch/webpro-and-friends/wiki/%235-Issues-mit-%C2%ABmagic-words%C2%BB-schliessen) <br>
+– [#6 Bilder einfügen](https://github.com/mariellebeusch/webpro-and-friends/wiki/%236-Bilder-einf%C3%BCgen) <br>
+– [#7 Code verlinken](https://github.com/mariellebeusch/webpro-and-friends/wiki/%237-Code-verlinken) <br>
+– [#8 Listen innerhalb Projekten](https://github.com/mariellebeusch/webpro-and-friends/wiki/%238-Listen-innerhalb-Projekten) <br>
+– [#9 Github Topics](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2310-Github-Topics-(tags)) (Tags) <br>
+– [#10 Kommentare verlinken](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2310-Kommentare-verlinken) <br>
+– [#11 Github wiki](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2311-Github-wiki) <br>
+– [#12 Github Pages](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2312-Github-pages) <br>
+– [#13 Github wie ein CMS nutzen](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2313-Github-wie-ein-CMS-nutzen) <br>
+– [#14 The «magic» T-Key](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2314-The-%C2%ABmagic%C2%BB-T-key) <br>
+– [#15 Octotree](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2315-Octotree)<br>
+– Weitere Tools<br>
 
 ## Erfahrungen
 ...
+
+## Quellen
+<a href="https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0">12 cool things you can do with GitHub</a><br>
+<a href="https://de.wikipedia.org/wiki/GitHub">Wikipedia «Github»</a><br>
