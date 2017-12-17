@@ -17,7 +17,7 @@ Kundenservice/Projektleiterin, Absolventin Web Frontend Developer – <a target=
 Polygrafin, Absolventin Web Frontend Developer – <a target="_blank" href="http://www.web-professionals.ch">Web Professionals</a>
 
 ## Themen des Talks<br>
-– [#1 Git URL Shortener](https://github.com/mariellebeusch/webpro-and-friends/wiki/%231-Github-URL-Shortener) <br>
+– <a href="https://github.com/mariellebeusch/webpro-and-friends/wiki/%231-Github-URL-Shortener">#1 Git URL Shortener</a><br>
 – [#2 Projekte verwalten](https://github.com/mariellebeusch/webpro-and-friends/wiki/%232-Projekte) <br>
 – [#3 Code editieren](https://github.com/mariellebeusch/webpro-and-friends/wiki/%233-Code-editieren) <br>
 – [#4 Code formatieren](https://github.com/mariellebeusch/webpro-and-friends/wiki/%234-Code-formatieren) <br>
