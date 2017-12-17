@@ -32,7 +32,7 @@ Polygrafin, Absolventin Web Frontend Developer – <a target="_blank" href="http
 – [#13 Github wie ein CMS nutzen](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2313-Github-wie-ein-CMS-nutzen) <br>
 – [#14 The «magic» T-Key](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2314-The-%C2%ABmagic%C2%BB-T-key) <br>
 – [#15 Octotree](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2315-Octotree)<br>
-– Weitere Tools<br>
+– [Weitere Tools](https://github.com/mariellebeusch/webpro-and-friends/wiki/Weitere-coole-Dinge)<br>
 
 ## Erfahrungen
 ...
