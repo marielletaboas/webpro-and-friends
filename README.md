@@ -1,4 +1,4 @@
-# #15 Dinge coole Dinge,<br>die du mit Github tun kannst
+# #15 Dinge coole Dinge,<br>die du mit Github tun kannst :sunglasses:
 
 Web Professionals, Talk am Web Professionals & Friends
 
