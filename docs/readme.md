@@ -17,22 +17,22 @@ Kundenservice/Projektleiterin, Absolventin Web Frontend Developer – <a target=
 Polygrafin, Absolventin Web Frontend Developer – <a target="_blank" href="http://www.web-professionals.ch">Web Professionals</a>
 
 ## Themen des Talks<br>
-– #1 Git URL Shortener<br>
-– #2 Projekte verwalten<br>
-– #3 Code editieren<br>
-– #4 Code formatieren<br>
-– #5 Issues mit «magic words» schliessen <br>
-– #6 Bilder einfügen <br>
-– #7 Code verlinken <br>
-– #8 Listen innerhalb Projekten<br>
-– #9 Github Topics (Tags) <br>
-– #10 Kommentare verlinken <br>
-– #11 Github wiki<br>
-– #12 Github Pages<br>
-– #13 Emojis verwenden <br>
-– #14 The «magic» T-Key <br>
-– #15 Octotree<br>
-– Weitere Tools<br>
+– [#1 Git URL Shortener](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2301-Github-URL-Shortener) <br>
+– [#2 Projekte verwalten](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2302-Projekte) <br>
+– [#3 Code editieren](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2303-Code-editieren) <br>
+– [#4 Code formatieren](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2304-Code-formatieren) <br>
+– [#5 Issues](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2305-Issues-mit-%C2%ABmagic-words%C2%BB-schliessen) <br>
+– [#6 Bilder einfügen](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2306-Bilder-einf%C3%BCgen) <br>
+– [#7 Code verlinken](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2307-Code-verlinken) <br>
+– [#8 Listen innerhalb Projekten](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2308-Listen-innerhalb-Projekten) <br>
+– [#9 Github Topics](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2309-Github-Topics-(tags)) (Tags) <br>
+– [#10 Kommentare verlinken](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2310-Kommentare-verlinken) <br>
+– [#11 Github wiki](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2311-Github-wiki) <br>
+– [#12 Github Pages](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2312-Github-Pages) <br>
+– [#13 Emojis verwenden](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2313-Emojis-verwenden) <br>
+– [#14 The «magic» T-Key](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2314-The-%C2%ABmagic%C2%BB-T-key) <br>
+– [#15 Octotree](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2315-Octotree)<br>
+– [Weitere Tools](https://github.com/mariellebeusch/webpro-and-friends/wiki/Weitere-coole-Dinge)<br>
 
 ## Erfahrungen
 ...
