@@ -1,4 +1,4 @@
-# #15 Dinge coole Dinge,<br>die du mit Github tun kannst :sunglasses:
+# #15 Dinge coole Dinge,<br>die du mit Github tun kannst
 
 
 ## Was ist Github<br>
