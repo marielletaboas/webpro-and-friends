@@ -51,11 +51,7 @@ Polygrafin, Absolventin Web Frontend Developer – <a target="_blank" href="http
 – [#12 Github Pages](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2312-Github-Pages) <br>
 – [#13 Emojis verwenden](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2313-Emojis-verwenden) <br>
 – [#14 The «magic» T-Key](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2314-The-%C2%ABmagic%C2%BB-T-key) <br>
-– [#15 Octotree](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2315-Octotree)<br>
 – [Weitere Tools](https://github.com/mariellebeusch/webpro-and-friends/wiki/Weitere-coole-Dinge)<br>
-
-## Erfahrungen
-...
 
 ## Quellen
 <a href="https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0">12 cool things you can do with GitHub</a><br>
