@@ -1,4 +1,4 @@
-# #15 Dinge coole Dinge,<br>die du mit Github tun kannst :sunglasses:
+# #14 Dinge coole Dinge,<br>die du mit Github tun kannst :sunglasses:
 
 Web Professionals, Talk am Web Professionals & Friends
 
@@ -19,7 +19,6 @@ Um die Präsentation (reveal.js) lokal zu starten:
 ```bash
 npm start
 ```
-
 
 ## Was ist Github<br>
 GitHub ist die Bezeichnung eines Hosting-Dienstes mit dem Schwerpunkt Softwareentwicklung. 2008 wurde das Unternehmen gegründet und mittlerweile von tausenden Softwareentwicklern genutzt. Mittels Github können Entwickler an Programmen mitarbeiten oder Teile avon in eigene Projekte, sogenannte Forks, weiterverwenden. Die Nutzung von Github ist kostenlos, der grösste Teil steht unter der Open-Source-Lizenz. Private Repositories sind kostenpflichtig, ansonsten ist Github kostenlos verwendbar.
