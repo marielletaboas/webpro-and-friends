@@ -1,4 +1,4 @@
-# #15 Dinge coole Dinge,<br>die du mit Github tun kannst :sunglasses:
+# #14 Dinge coole Dinge, die du mit Github tun kannst :sunglasses:
 
 Web Professionals, Talk am Web Professionals & Friends
 
@@ -19,7 +19,6 @@ Um die Präsentation (reveal.js) lokal zu starten:
 ```bash
 npm start
 ```
-
 
 ## Was ist Github<br>
 GitHub ist die Bezeichnung eines Hosting-Dienstes mit dem Schwerpunkt Softwareentwicklung. 2008 wurde das Unternehmen gegründet und mittlerweile von tausenden Softwareentwicklern genutzt. Mittels Github können Entwickler an Programmen mitarbeiten oder Teile avon in eigene Projekte, sogenannte Forks, weiterverwenden. Die Nutzung von Github ist kostenlos, der grösste Teil steht unter der Open-Source-Lizenz. Private Repositories sind kostenpflichtig, ansonsten ist Github kostenlos verwendbar.
@@ -51,11 +50,7 @@ Polygrafin, Absolventin Web Frontend Developer – <a target="_blank" href="http
 – [#12 Github Pages](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2312-Github-Pages) <br>
 – [#13 Emojis verwenden](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2313-Emojis-verwenden) <br>
 – [#14 The «magic» T-Key](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2314-The-%C2%ABmagic%C2%BB-T-key) <br>
-– [#15 Octotree](https://github.com/mariellebeusch/webpro-and-friends/wiki/%2315-Octotree)<br>
 – [Weitere Tools](https://github.com/mariellebeusch/webpro-and-friends/wiki/Weitere-coole-Dinge)<br>
-
-## Erfahrungen
-...
 
 ## Quellen
 <a href="https://hackernoon.com/12-cool-things-you-can-do-with-github-f3e0424cf2f0">12 cool things you can do with GitHub</a><br>
